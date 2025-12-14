@@ -1,6 +1,5 @@
 <template>
   <section class="what-await">
-    123457
     <h3>Что вас ждёт:</h3>
 
     <div class="features-grid">
