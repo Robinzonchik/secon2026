@@ -34,7 +34,7 @@ export default {
 
 <style scoped>
 body {
-  background-color: rgb(250, 250, 250);
+  background-color: rgb(0, 0, 0);
   margin: 0;
   padding: 0;
 }
